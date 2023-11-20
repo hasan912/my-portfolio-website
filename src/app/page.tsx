@@ -10,7 +10,7 @@ import Image from 'next/image';
             <div className="col-left">
               <span className="sub-heading">Hello, I am</span>
               <h1 className="heading">
-                Muhammad 
+                Muhammad <br></br>
                 <span>Hasan</span>        
                  <br /> Baig 
               </h1>
