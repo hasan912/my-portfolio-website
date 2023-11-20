@@ -284,7 +284,7 @@ import Image from 'next/image';
           {/* item */}
           <div className="project-item">
             <div className="project-image">
-              <Image src="/2.GIF" width={100} height={100} alt="project image" />
+              <Image src="/1.png" width={100} height={100} alt="project image" />
             </div>
             <div className="project-content">
               <h3>Landing page</h3>
@@ -297,7 +297,7 @@ import Image from 'next/image';
           {/* item */}
           <div className="project-item">
             <div className="project-image">
-              <Image src="/3.GIF" width={100} height={100} alt="project image" />
+              <Image src="/2.png" width={100} height={100} alt="project image" />
             </div>
             <div className="project-content">
               <h3>Web Development</h3>
@@ -310,7 +310,7 @@ import Image from 'next/image';
           {/* item */}
           <div className="project-item">
             <div className="project-image">
-              <Image src="/1.GIF" width={100} height={100} alt="project image" />
+              <Image src="/3.png" width={100} height={100} alt="project image" />
             </div>
             <div className="project-content">
               <h3>Node.JS</h3>
@@ -323,7 +323,7 @@ import Image from 'next/image';
           {/* item */}
           <div className="project-item">
             <div className="project-image">
-              <Image src="/2.GIF" width={100} height={100} alt="project image" />
+              <Image src="/1.png" width={100} height={100} alt="project image" />
             </div>
             <div className="project-content">
               <h3>Node.JS</h3>
@@ -336,7 +336,7 @@ import Image from 'next/image';
           {/* item */}
           <div className="project-item">
             <div className="project-image">
-              <Image src="/3.GIF" width={100} height={100} alt="project image" />
+              <Image src="/2.png" width={100} height={100} alt="project image" />
             </div>
             <div className="project-content">
               <h3>Node.JS</h3>
@@ -349,7 +349,7 @@ import Image from 'next/image';
           {/* item */}
           <div className="project-item">
             <div className="project-image">
-              <Image src="/1.GIF" width={100} height={100} alt="project image" />
+              <Image src="/3.png" width={100} height={100} alt="project image" />
             </div>
             <div className="project-content">
               <h3>Node.JS</h3>
